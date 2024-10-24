@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Memories-Apart
 - 👀 I’m interested in music production and badminton.
-- 🌱 I’m currently learning C language and car riding.
+- 🌱 I’m currently learning C and python.
 - 💞️ I’m looking to collaborate on music composing and production. Besides,I'd like to cooperate on C language project as well.
 - 📫 How to reach me ...You guys can contact me with QQ:479452904 or email me at 479452904@qq.com.
 
