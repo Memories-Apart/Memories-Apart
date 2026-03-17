@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Memories-Apart
-- 👀 I’m interested in music production and badminton.
-- 🌱 I’m currently learning C and python.
-- 💞️ I’m looking to collaborate on music composing and production. Besides,I'd like to cooperate on C language project as well.
-- 📫 How to reach me ...You guys can contact me with QQ:479452904 or email me at 479452904@qq.com.
+GitHub Profile Bio
+👋 Hi, I’m @Memories-Apart
+
+🤖 Embodied AI Engineer | Robotics & Machine Learning enthusiast.
+
+🚀 Leading end-to-end development for xlerobot (dual-arm mobile home robot) at Dexmal Inc.
+
+💡 Core focus: VLA Models, Sim-to-Real, and Bio-inspired Robotics.
+
+🛠️ Proficient in Python, and C/C++.
+
+🏸 Interests: Music production & Badminton.
+
+📫 Reach me at: 479452904@qq.com
 
 <!---
 Memories-Apart/Memories-Apart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
